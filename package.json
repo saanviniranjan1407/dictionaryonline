@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@expo/vector-icons": "^10.0.0",
+    "expo-constants": "~9.2.0",
+    "react": "^17.0.2",
+    "react-native": "^0.65.1",
+    "react-native-elements": "^3.4.2",
+    "react-native-paper": "3.6.0",
+    "yarn": "^1.22.11"
+  }
+}
